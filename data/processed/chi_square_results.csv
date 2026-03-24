@@ -1,0 +1,29 @@
+Feature1,Feature2,P_Value,Significant
+cup size,category,3.896774193928091e-24,True
+cup size,bust,0.0,True
+cup size,height,0.0,True
+cup size,user_name,4.836523346179817e-71,True
+cup size,length,0.0692018825889548,False
+cup size,fit,2.7219548418236356e-54,True
+cup size,shoe width,7.119848948725003e-44,True
+category,bust,8.536899801408152e-55,True
+category,height,1.51569404218541e-28,True
+category,user_name,0.07229601846837669,False
+category,length,0.0,True
+category,fit,1.819900657773452e-192,True
+category,shoe width,2.14544553492287e-08,True
+bust,height,6.714750525731219e-122,True
+bust,user_name,9.190147013271783e-83,True
+bust,length,0.018943430256567275,True
+bust,fit,4.5622587913426e-13,True
+bust,shoe width,0.0,True
+height,user_name,1.8284771521884324e-83,True
+height,length,0.0,True
+height,fit,5.1972201633223936e-11,True
+height,shoe width,4.644606707068972e-17,True
+user_name,length,0.013647530304871737,True
+user_name,fit,0.00224579928855657,True
+user_name,shoe width,4.618280117231522e-07,True
+length,fit,0.0,True
+length,shoe width,2.935222621130768e-07,True
+fit,shoe width,4.032746967173724e-13,True
